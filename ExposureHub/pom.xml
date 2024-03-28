@@ -93,7 +93,17 @@
 	        <groupId>org.seleniumhq.selenium</groupId>
 	        <artifactId>selenium-chrome-driver</artifactId>
 	        <version>3.141.59</version>
-    	</dependency>		
+    	</dependency>
+		<dependency>
+			<groupId>org.seleniumhq.selenium</groupId>
+			<artifactId>selenium-chromium-driver</artifactId>
+			<version>4.9.1</version>
+		</dependency>	
+		<dependency>
+			<groupId>org.seleniumhq.selenium</groupId>
+			<artifactId>selenium-remote-driver</artifactId>
+			<version>4.10.0</version>
+		</dependency>	
     	<dependency>
 		    <groupId>org.seleniumhq.selenium</groupId>
 		    <artifactId>selenium-server</artifactId>
