@@ -196,6 +196,9 @@ public class BaseClass {
 		} else if (name.equals("Oilfield")) {
 			excelName = "\\src\\test\\resources\\testData\\testDataForOilfield.xlsx";
 
+		} else if (name.equals("Demo")) {
+			excelName = "\\src\\test\\resources\\testData\\testDataForDemoEnvironment.xlsx";
+
 		} else {
 			System.out.println("Kindly pass the right Excel patyh for Test Environment.");
 		}
