@@ -98,7 +98,7 @@
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-chromium-driver</artifactId>
 			<version>4.9.1</version>
-		</dependency> -->
+		</dependency> 
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-remote-driver</artifactId>
@@ -109,7 +109,7 @@
 		    <artifactId>selenium-server</artifactId>
 		    <version>3.8.1</version>
 		</dependency>
-	</dependencies>
+	</dependencies>-->
 
 	<build>
 		<!--<sourceDirectory>src</sourceDirectory>-->
